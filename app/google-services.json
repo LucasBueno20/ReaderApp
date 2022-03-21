@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258482459984",
+    "project_id": "jetareaderapp",
+    "storage_bucket": "jetareaderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258482459984:android:0d569dde9100ed8fee8855",
+        "android_client_info": {
+          "package_name": "com.example.readerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258482459984-86f3grv7qanrfam56pjeelr9f25l86ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnt8ELiRUoOEC1DhNbbhRiabzQAL1NQQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258482459984-86f3grv7qanrfam56pjeelr9f25l86ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
